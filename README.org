@@ -1,4 +1,14 @@
 * sweet
-Inferior version of neofetch :))))
+/"It's like Neofetch, but much simpler!"/
+
+** Project Overview
+This is our attempt of making our own Neofetch with OCaml. 
+
+** The Setup
+OCaml. I don't know anything else that's required 
+- Ignatius Fairlight.
+
+** Current Progress
+/Insert TODOs here/
 
 NOTE: To install use `dune install`
